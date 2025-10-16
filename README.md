@@ -1,0 +1,2 @@
+# Mypy
+Expense Tracker
